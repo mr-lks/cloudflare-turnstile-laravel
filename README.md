@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel Cloudflare Turnstile
 
 <div align="center">
@@ -146,3 +147,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+=======
+# cloudflare-turnstile-laravel
+Laravel integration for Cloudflare Turnstile CAPTCHA
+>>>>>>> 1066a7ad2c02e4c3d3d86e8c7d6fba8efae75106
